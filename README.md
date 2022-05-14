@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dorangejuice
+- 👀 I’m interested in web programming
+- 🌱 I’m currently learning react, timeline graph
+- 💞️ I’m looking to collaborate on nothing yet
+- 📫 How to reach me perfect?
